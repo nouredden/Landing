@@ -8601,3 +8601,25 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+
+
+.gal{
+	margin-top: 3em;
+	margin-bottom: 3em;
+
+	padding: auto;
+float: left;
+	width: 250px;
+	height: 250px;
+	border-radius: 10%;
+position: relative;
+align-content: center;
+			}
+			.gal img{
+				
+	width: 248px;
+	height: 248px;
+	
+	border-radius: 11%;
+			}
